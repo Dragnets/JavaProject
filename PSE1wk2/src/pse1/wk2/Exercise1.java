@@ -24,13 +24,9 @@ public class Exercise1 {
         int[] ages = new int[count];
         for (int i = 0; i < count; i++){
             
-            int age;
             Scanner start = new Scanner(System.in);
             System.out.print("Please enter age: ");
-            age = start.nextInt();
-            //System.out.println("Age is "+age);
-            Scanner sc = new Scanner(System.in);
-            System.out.println("The age now is: "+age);
+            int age = start.nextInt();
             String ageGroup;
             if (age < 16) {
                 ageGroup = "Child";
@@ -45,8 +41,10 @@ public class Exercise1 {
             ages[i]= age;
         }
         return ages;
- 
+
         }
 }
+
+
 
         
