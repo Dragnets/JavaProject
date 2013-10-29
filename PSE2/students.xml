@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_07" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="pse2.wk11.reflection.Student">
+    <void property="firstName">
+     <string>Abdul</string>
+    </void>
+    <void property="lastName">
+     <string>Ali</string>
+    </void>
+    <void property="lengthOfCourse">
+     <int>4</int>
+    </void>
+    <void property="studentNumber">
+     <int>100003</int>
+    </void>
+    <void property="yearStarted">
+     <int>2012</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="pse2.wk11.reflection.Student">
+    <void property="firstName">
+     <string>Pete</string>
+    </void>
+    <void property="lastName">
+     <string>Jones</string>
+    </void>
+    <void property="lengthOfCourse">
+     <int>3</int>
+    </void>
+    <void property="studentNumber">
+     <int>100002</int>
+    </void>
+    <void property="yearStarted">
+     <int>2012</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="pse2.wk11.reflection.Student">
+    <void property="firstName">
+     <string>John</string>
+    </void>
+    <void property="lastName">
+     <string>Smith</string>
+    </void>
+    <void property="lengthOfCourse">
+     <int>3</int>
+    </void>
+    <void property="studentNumber">
+     <int>100001</int>
+    </void>
+    <void property="yearStarted">
+     <int>2012</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="pse2.wk11.reflection.Student">
+    <void property="firstName">
+     <string>John</string>
+    </void>
+    <void property="lastName">
+     <string>Smithh</string>
+    </void>
+    <void property="lengthOfCourse">
+     <int>3</int>
+    </void>
+    <void property="studentNumber">
+     <int>100000</int>
+    </void>
+    <void property="yearStarted">
+     <int>2012</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
